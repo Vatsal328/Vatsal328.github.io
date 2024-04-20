@@ -62,7 +62,6 @@ nav ul li a {
 }
 
 .carousel-wrapper {
-    display: flex;
     position: relative;
     margin-left: 400px;
     margin-right: 400px;
@@ -107,7 +106,7 @@ nav ul li a {
   
   .carousel-next {
     right: 10px;
-    transform: rotate(180deg);
+    transform: rotateZ(180deg);
   }
 
   .video-container {
