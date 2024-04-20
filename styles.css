@@ -61,10 +61,14 @@ nav ul li a {
     margin-right: 150px;
 }
 
-
+.carousel-wrapper {
+    position: relative;
+    margin-left: 400px;
+    margin-right: 400px;
+}
 .carousel-container {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 150px;
     margin-bottom: 150px;
     width: auto;
