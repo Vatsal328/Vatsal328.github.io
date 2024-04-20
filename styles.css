@@ -64,8 +64,12 @@ nav ul li a {
 }
 
 
-.carousel-container {
-    width: 100%;
+.carousel-container {\
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: auto;
     overflow: hidden;
     position: relative;
   }
@@ -80,11 +84,7 @@ nav ul li a {
   }
   
   .carousel-item img {
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    width: auto;
+    width: 100%;
     height: auto;
   }
   
