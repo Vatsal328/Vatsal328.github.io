@@ -135,24 +135,12 @@ nav ul li a {
   }
 
   .team-member img {
-    width: 100%;
+    width: 200px;
+    hieght: 200px;
     margin-bottom: 10px;
+    border-radius: 50%;
   }
 
   .team-member h2{
     font-size: 18px;
   }
-
-  .team-member .social-links {
-    margin-top: 10px;
-  }
-
-  .team-member .social-links a {
-    display: inline-block;
-    margin: 0 5px;
-    font-size: 20px;
-  }
-    .featured .movie {
-        width: 45%;
-    }
-}
