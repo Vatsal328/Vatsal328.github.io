@@ -94,9 +94,14 @@ nav ul li a {
 
 .carousel-prev,
 .carousel-next {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
   position: absolute;
   top: 50%;
-  transform: translateY(-50%); 
+  transform: translateY(-50%);
+  cursor: poi;
 }
 
 .carousel-prev {
@@ -138,9 +143,14 @@ nav ul li a {
 
 .model-prev,
 .model-next {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
   position: absolute;
   top: 50%;
-  transform: translateY(-50%); 
+  transform: translateY(-50%);
+  cursor: poi;
 }
 
 .model-prev {
