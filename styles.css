@@ -90,6 +90,7 @@ nav ul li a {
 .carousel-item img {
   width: 100%;
   height: auto;
+  display: flex;
 }
 
 .carousel-prev,
@@ -139,6 +140,7 @@ nav ul li a {
 .model-item img {
   width: 100%;
   height: auto;
+  display: flex;
 }
 
 .model-prev,
