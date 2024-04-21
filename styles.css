@@ -6,7 +6,7 @@ body, html {
 
 /* Global styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: Calibri, sans-serif; /* Changed font family to Calibri */
   line-height: 1.6;
   background-color: #ffffff;
   color: #333;
@@ -31,7 +31,6 @@ a:visited {
 
 .title {
   text-align: center;
-  font-family: 'Trebuchet MS';
   font-size: 150%;
 }
 
@@ -61,14 +60,12 @@ nav ul li a {
 }
 
 .heading {
-  font-family: monospace;
   font-size: 150%;
   margin-left: 150px;
 }
 
 .description {
   color: #333;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: justify;
   margin-left: 150px;
   margin-right: 150px;
@@ -113,7 +110,7 @@ nav ul li a {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  cursor: poi;
+  cursor: pointer; /* Corrected typo in cursor property */
 }
 
 .carousel-prev {
@@ -163,7 +160,7 @@ nav ul li a {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  cursor: poi;
+  cursor: pointer; /* Corrected typo in cursor property */
 }
 
 .model-prev {
@@ -190,7 +187,6 @@ nav ul li a {
 
 .report{
   font-size: 125%;
-  font-family: Trebuchet MS;
   margin-left: 150px;
 }
 
