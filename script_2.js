@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const track = document.querySelector('.carousel-track');
+    const track = document.querySelector('.model-track');
     const items = document.querySelectorAll('.model-item');
     const slideWidth = items[0].clientWidth;
   
@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', function() {
       track.style.transform = `translateX(${offset}px)`;
     }
   
-    const nextBtn = document.querySelector('.carousel-next');
-    const prevBtn = document.querySelector('.carousel-prev');
+    const nextBtn = document.querySelector('.model-next');
+    const prevBtn = document.querySelector('.model-prev');
   
     nextBtn.addEventListener('click', slideNext);
     prevBtn.addEventListener('click', slidePrev);
