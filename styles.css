@@ -12,6 +12,17 @@ body {
   color: #333;
 }
 
+
+button:hover {
+  opacity: 0.8; /* Reduce opacity on hover */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+
+a:visited {
+  color: blue; /* Same color as default */
+}
+
 .container {
   width: 80%;
   margin: auto;
