@@ -24,6 +24,12 @@ body {
   font-size: 150%;
 }
 
+.sub-title{
+  text-align: center;
+  font-family: monospace;
+  font-size: 150%;
+}
+
 nav {
   float: center;
 }
