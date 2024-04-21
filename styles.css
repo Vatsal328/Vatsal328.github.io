@@ -190,12 +190,12 @@ nav ul li a {
 
 .team-member {
   text-align: center;
-  width: 175px;
+  width: 150px;
 }
 
 .team-member img {
-  width: 175px;
-  height: 175px;
+  width: 155px;
+  height: 150px;
   margin-bottom: 10px;
   border-radius: 50%;
 }
