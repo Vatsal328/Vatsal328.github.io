@@ -216,3 +216,8 @@ nav ul li a {
 .team-member h2{
   font-size: 18px;
 }
+.report_frontpage{
+  background-color: #e0e0e0; /* Set background color for the container */
+      display: inline-block; /* Display the container as inline-block */
+      padding: 10px; /* Add padding for spacing */
+}
