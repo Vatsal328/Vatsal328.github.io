@@ -175,6 +175,12 @@ nav ul li a {
   height: 450px;
 }
 
+.report{
+  font-size: 125%;
+  font-family: Trebuchet MS;
+  margin-left: 150px;
+}
+
 .team-container {
   display: flex;
   justify-content: center;
